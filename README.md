@@ -16,6 +16,6 @@ I also don't know why this doesn't work
 # Copy
 Don't copy thank you
 >>> Don't copy thank you
-*Don't copy thank you*
-**Don't copy thank you**
-~Don't~ copy ~thank~ you
+>>> *Don't copy thank you*
+>>> **Don't copy thank you**
+>>> ~Don't~ copy ~thank~ you
